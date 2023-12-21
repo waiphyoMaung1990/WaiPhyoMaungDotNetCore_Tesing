@@ -53,7 +53,11 @@
 //    Console.WriteLine("--------------------------------------");
 //}
 using WaiphyomaungDotNetCore.ConsoleApp.AdoDotNetExamples;
+using WaiphyomaungDotNetCore.ConsoleApp.DapperExamples;
 
-AdoDotNetExample adoDotnewexample=new AdoDotNetExample();
-adoDotnewexample.Run();
+//AdoDotNetExample adoDotnewexample=new AdoDotNetExample();
+//adoDotnewexample.Run();
+
+DapperExample dapperExample=new DapperExample();
+dapperExample.Run();
 Console.ReadKey();
