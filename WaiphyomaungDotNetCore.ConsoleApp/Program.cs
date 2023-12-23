@@ -54,10 +54,14 @@
 //}
 using WaiphyomaungDotNetCore.ConsoleApp.AdoDotNetExamples;
 using WaiphyomaungDotNetCore.ConsoleApp.DapperExamples;
+using WaiphyomaungDotNetCore.ConsoleApp.EFCoreExamples;
 
 //AdoDotNetExample adoDotnewexample=new AdoDotNetExample();
 //adoDotnewexample.Run();
 
-DapperExample dapperExample=new DapperExample();
-dapperExample.Run();
-Console.ReadKey();
+//DapperExample dapperExample=new DapperExample();
+//dapperExample.Run();
+//Console.ReadKey();
+
+EFCoreExample _EFCoreExample=new EFCoreExample();
+_EFCoreExample.Run();
