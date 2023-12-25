@@ -5,6 +5,10 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WaiphyomaungDotNetCore.ConsoleApp", "WaiphyomaungDotNetCore.ConsoleApp\WaiphyomaungDotNetCore.ConsoleApp.csproj", "{DD6C0089-F74B-440B-9150-195DA170DCF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaiphyomaungDotnetCore.RestAPI", "WaiphyomaungDotnetCore.RestAPI\WaiphyomaungDotnetCore.RestAPI.csproj", "{286B5C60-3B12-41E5-AB04-588A3777544E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaiphyomaungDotnetCore.MinimalAPI", "WaiphyomaungDotnetCore.MinimalAPI\WaiphyomaungDotnetCore.MinimalAPI.csproj", "{17A15CF2-7C5C-4D2A-9E86-3434D98D6AEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{DD6C0089-F74B-440B-9150-195DA170DCF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD6C0089-F74B-440B-9150-195DA170DCF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD6C0089-F74B-440B-9150-195DA170DCF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{286B5C60-3B12-41E5-AB04-588A3777544E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{286B5C60-3B12-41E5-AB04-588A3777544E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{286B5C60-3B12-41E5-AB04-588A3777544E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{286B5C60-3B12-41E5-AB04-588A3777544E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17A15CF2-7C5C-4D2A-9E86-3434D98D6AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A15CF2-7C5C-4D2A-9E86-3434D98D6AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A15CF2-7C5C-4D2A-9E86-3434D98D6AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A15CF2-7C5C-4D2A-9E86-3434D98D6AEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

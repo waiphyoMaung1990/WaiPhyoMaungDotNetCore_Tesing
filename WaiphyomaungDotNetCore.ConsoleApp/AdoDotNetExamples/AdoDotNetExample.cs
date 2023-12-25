@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Data;
 using System.Data.SqlClient;
-using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace WaiphyomaungDotNetCore.ConsoleApp.AdoDotNetExamples
 {
@@ -153,7 +148,7 @@ INSERT INTO [dbo].[Tbl_Blog]
             Console.WriteLine(message);
 
         }
-        private void Update(int id,string title, string author, string content)
+        private void Update(int id, string title, string author, string content)
         {
 
             SqlConnectionStringBuilder connectionStringBuilder = new SqlConnectionStringBuilder()
@@ -208,7 +203,7 @@ DELETE FROM [dbo].[Tbl_Blog]
       WHERE Blog_Id=@Blog_Id";
             SqlCommand command = new SqlCommand(query, connection);
             command.Parameters.AddWithValue("@Blog_Id", id);
-            
+
             int result = command.ExecuteNonQuery();
             string message = result > 0 ? "Deleting Successful." : "Deleting Failed";
             connection.Close();
