@@ -68,7 +68,6 @@ namespace WaiphyomaungDotNetCore.ConsoleApp.DapperExamples
                 Console.WriteLine(item.Blog_Content);
 
             }
-
         }
         public void Edit(int id)
         {
@@ -118,7 +117,7 @@ INSERT INTO [dbo].[Tbl_Blog]
             Console.WriteLine(message);
 
         }
-        private void Update(int id,string title, string author, string content)
+        private void Update(int id, string title, string author, string content)
         {
 
             string query = @"
@@ -152,11 +151,9 @@ DELETE FROM [dbo].[Tbl_Blog]
             BlogDataModel blog = new BlogDataModel()
             {
                 Blog_Id = id,
-               
+
             };
             using IDbConnection db = new SqlConnection(_sqlConnectionStringBuilder.ConnectionString);
-
-
             int result = db.Execute(query, blog);
             string message = result > 0 ? "Deleting Successful." : "Deleting Failed";
 
