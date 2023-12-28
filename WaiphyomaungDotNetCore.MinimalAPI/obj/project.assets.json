@@ -466,11 +466,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\.NetTraining\\My Lesson\\WaiphyomaungDotnetCore\\WaiphyomaungDotnetCore.MinimalAPI\\WaiphyomaungDotnetCore.MinimalAPI.csproj",
-      "projectName": "WaiphyomaungDotnetCore.MinimalAPI",
-      "projectPath": "E:\\.NetTraining\\My Lesson\\WaiphyomaungDotnetCore\\WaiphyomaungDotnetCore.MinimalAPI\\WaiphyomaungDotnetCore.MinimalAPI.csproj",
+      "projectUniqueName": "E:\\.NetTraining\\My Lesson\\WaiphyomaungDotNetCore\\WaiphyomaungDotNetCore.MinimalAPI\\WaiPhyoMaungDotNetCore.MinimalAPI.csproj",
+      "projectName": "WaiPhyoMaungDotNetCore.MinimalAPI",
+      "projectPath": "E:\\.NetTraining\\My Lesson\\WaiphyomaungDotNetCore\\WaiphyomaungDotNetCore.MinimalAPI\\WaiPhyoMaungDotNetCore.MinimalAPI.csproj",
       "packagesPath": "C:\\Users\\wpm\\.nuget\\packages\\",
-      "outputPath": "E:\\.NetTraining\\My Lesson\\WaiphyomaungDotnetCore\\WaiphyomaungDotnetCore.MinimalAPI\\obj\\",
+      "outputPath": "E:\\.NetTraining\\My Lesson\\WaiphyomaungDotNetCore\\WaiphyomaungDotNetCore.MinimalAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

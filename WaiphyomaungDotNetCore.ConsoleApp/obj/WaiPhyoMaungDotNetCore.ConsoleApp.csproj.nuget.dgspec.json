@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\.NetTraining\\My Lesson\\WaiphyomaungDotnetCore\\WaiphyomaungDotNetCore.ConsoleApp\\WaiPhyoMaungDotNetCore.ConsoleApp.csproj": {}
+    "E:\\.NetTraining\\My Lesson\\WaiphyomaungDotNetCore\\WaiphyomaungDotNetCore.ConsoleApp\\WaiPhyoMaungDotNetCore.ConsoleApp.csproj": {}
   },
   "projects": {
-    "E:\\.NetTraining\\My Lesson\\WaiphyomaungDotnetCore\\WaiphyomaungDotNetCore.ConsoleApp\\WaiPhyoMaungDotNetCore.ConsoleApp.csproj": {
+    "E:\\.NetTraining\\My Lesson\\WaiphyomaungDotNetCore\\WaiphyomaungDotNetCore.ConsoleApp\\WaiPhyoMaungDotNetCore.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\.NetTraining\\My Lesson\\WaiphyomaungDotnetCore\\WaiphyomaungDotNetCore.ConsoleApp\\WaiPhyoMaungDotNetCore.ConsoleApp.csproj",
+        "projectUniqueName": "E:\\.NetTraining\\My Lesson\\WaiphyomaungDotNetCore\\WaiphyomaungDotNetCore.ConsoleApp\\WaiPhyoMaungDotNetCore.ConsoleApp.csproj",
         "projectName": "WaiPhyoMaungDotNetCore.ConsoleApp",
-        "projectPath": "E:\\.NetTraining\\My Lesson\\WaiphyomaungDotnetCore\\WaiphyomaungDotNetCore.ConsoleApp\\WaiPhyoMaungDotNetCore.ConsoleApp.csproj",
+        "projectPath": "E:\\.NetTraining\\My Lesson\\WaiphyomaungDotNetCore\\WaiphyomaungDotNetCore.ConsoleApp\\WaiPhyoMaungDotNetCore.ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\wpm\\.nuget\\packages\\",
-        "outputPath": "E:\\.NetTraining\\My Lesson\\WaiphyomaungDotnetCore\\WaiphyomaungDotNetCore.ConsoleApp\\obj\\",
+        "outputPath": "E:\\.NetTraining\\My Lesson\\WaiphyomaungDotNetCore\\WaiphyomaungDotNetCore.ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

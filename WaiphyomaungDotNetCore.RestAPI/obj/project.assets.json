@@ -3662,11 +3662,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\.NetTraining\\My Lesson\\WaiphyomaungDotnetCore\\WaiphyomaungDotNetCore.RestAPI\\WaiphyomaungDotNetCore.RestAPI.csproj",
-      "projectName": "WaiphyomaungDotnetCore.RestAPI",
-      "projectPath": "E:\\.NetTraining\\My Lesson\\WaiphyomaungDotnetCore\\WaiphyomaungDotNetCore.RestAPI\\WaiphyomaungDotNetCore.RestAPI.csproj",
+      "projectUniqueName": "E:\\.NetTraining\\My Lesson\\WaiphyomaungDotNetCore\\WaiphyomaungDotNetCore.RestAPI\\WaiPhyoMaungDotNetCore.RestAPI.csproj",
+      "projectName": "WaiPhyoMaungDotNetCore.RestAPI",
+      "projectPath": "E:\\.NetTraining\\My Lesson\\WaiphyomaungDotNetCore\\WaiphyomaungDotNetCore.RestAPI\\WaiPhyoMaungDotNetCore.RestAPI.csproj",
       "packagesPath": "C:\\Users\\wpm\\.nuget\\packages\\",
-      "outputPath": "E:\\.NetTraining\\My Lesson\\WaiphyomaungDotnetCore\\WaiphyomaungDotnetCore.RestAPI\\obj\\",
+      "outputPath": "E:\\.NetTraining\\My Lesson\\WaiphyomaungDotNetCore\\WaiphyomaungDotNetCore.RestAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

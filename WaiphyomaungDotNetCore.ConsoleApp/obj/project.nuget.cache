@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EANKN/qPhQUfJVvzy6BQCT786S1cY0IRiCsidBNnVixB9GPAkq3seW/sSj4K2AZp77e5s4G6d6vGZ8FVygKUYw==",
+  "dgSpecHash": "und8vRjCRoASJ814Xl+gpFwK5JECraY5Z9rzRE2rxUgGOaBWjNDKe7UfuIeZpiV9SxA8yhQRwf64+nzo/bE73w==",
   "success": true,
-  "projectFilePath": "E:\\.NetTraining\\My Lesson\\WaiphyomaungDotnetCore\\WaiphyomaungDotNetCore.ConsoleApp\\WaiPhyoMaungDotNetCore.ConsoleApp.csproj",
+  "projectFilePath": "E:\\.NetTraining\\My Lesson\\WaiphyomaungDotNetCore\\WaiphyomaungDotNetCore.ConsoleApp\\WaiPhyoMaungDotNetCore.ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wpm\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\wpm\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
