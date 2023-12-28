@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WaiphyomaungDotNetCore.Cons
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WaiphyomaungDotNetCore.RestAPI", "WaiphyomaungDotNetCore.RestAPI\WaiphyomaungDotNetCore.RestAPI.csproj", "{286B5C60-3B12-41E5-AB04-588A3777544E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WaiphyomaungDotNetCore.MinimalAPI", "WaiphyomaungDotNetCore.MinimalAPI\WaiphyomaungDotNetCore.MinimalAPI.csproj", "{17A15CF2-7C5C-4D2A-9E86-3434D98D6AEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WaiPhyoMaungDotNetCore.MinimalAPI", "WaiphyomaungDotNetCore.MinimalAPI\WaiPhyoMaungDotNetCore.MinimalAPI.csproj", "{17A15CF2-7C5C-4D2A-9E86-3434D98D6AEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
